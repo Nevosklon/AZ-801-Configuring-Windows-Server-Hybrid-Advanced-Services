@@ -177,6 +177,7 @@ lab:
 
 1. Back on the **Replication policy** tab of the **Prepare infrastructure** page, wait until the site has been associated with the policy and select **Next**.
 1. On the **Review** tab of the **Prepare infrastructure** page, select **Prepare**.
+    > **Note:** The screen may refresh and return you to the Azure portal home page without a confirmation message about the **Prepare** task being complete. If this happens, continue to the next task.
 
 #### Task 3: Enable replication of a Hyper-V virtual machine
 
