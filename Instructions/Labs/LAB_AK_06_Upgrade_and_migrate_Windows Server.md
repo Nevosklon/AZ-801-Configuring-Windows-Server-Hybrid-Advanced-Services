@@ -7,6 +7,8 @@ lab:
 
 # Lab answer key: Upgrade and migrate in Windows Server
 
+This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+
 ## Exercise 1: Deploying AD DS domain controllers in Azure
 
 #### Task 1: Deploy a domain controller by using an Azure Resource Manager (ARM) template
