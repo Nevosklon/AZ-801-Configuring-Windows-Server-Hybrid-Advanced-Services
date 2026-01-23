@@ -7,6 +7,8 @@ lab:
 
 # Lab answer key: Configuring security in Windows Server
 
+This exercise should take approximately **40** minutes to complete. <!-- update with estimated duration -->
+
 >**Note**: The lab simulations that were previously provided have been retired.
 
 ## Exercise 1: Configuring Windows Defender Credential Guard

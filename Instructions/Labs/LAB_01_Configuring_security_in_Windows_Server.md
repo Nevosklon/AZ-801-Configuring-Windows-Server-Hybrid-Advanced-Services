@@ -6,6 +6,8 @@ lab:
 
 # Lab: Configuring security in Windows Server
 
+This exercise should take approximately **40** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 
 Contoso Pharmaceuticals is a medical research company with about 5,000 employees worldwide. They have specific needs for ensuring that medical records and data remain private. The company has a headquarters location and multiple worldwide sites. Contoso has recently deployed a Windows Server and Windows client infrastructure. You have been asked to implement improvements in the server security configuration.

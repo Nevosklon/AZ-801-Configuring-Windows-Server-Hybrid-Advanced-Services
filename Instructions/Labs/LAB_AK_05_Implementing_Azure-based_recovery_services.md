@@ -7,6 +7,8 @@ lab:
 
 # Lab answer key: Implementing Azure-based recovery services
 
+This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+
 **Note**: You may need to install the latest version of the Microsoft Edge browser. To update the Microsoft Edge browser, select the three dots (ellipsis) icon in the upper-right corner of the window. Select **Help and feedback** from the dropdown menu, then select **About Microsoft Edge**. Edge will automatically check for updates and download any available updates, once the update is downloaded, click on the **Restart**
 
 

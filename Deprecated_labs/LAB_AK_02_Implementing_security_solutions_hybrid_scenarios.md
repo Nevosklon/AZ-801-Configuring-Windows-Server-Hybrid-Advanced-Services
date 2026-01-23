@@ -7,6 +7,8 @@ lab:
 
 # Lab answer key: Implementing Security Solutions in Hybrid Scenarios
 
+This exercise should take approximately **75** minutes to complete. <!-- update with estimated duration -->
+
 ## Exercise 1: Creating an Azure Log Analytics workspace
 
 #### Task 1: Create an Azure Log Analytics workspace 

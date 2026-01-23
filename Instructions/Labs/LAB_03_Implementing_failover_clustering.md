@@ -6,6 +6,8 @@ lab:
 
 # Lab: Implementing failover clustering
 
+This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 
 As the business of Contoso, Ltd. grows, it's becoming increasingly important that many of the applications and services on its network are always available. Contoso has many services and applications that must be available to internal and external users who work in different time zones around the world. Many of these applications can't be made highly available by using Network Load Balancing (NLB). Therefore, you should use a different technology to make these applications highly available.
