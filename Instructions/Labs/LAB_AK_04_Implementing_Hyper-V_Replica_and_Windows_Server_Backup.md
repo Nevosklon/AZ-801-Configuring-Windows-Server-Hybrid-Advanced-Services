@@ -7,6 +7,8 @@ lab:
 
 # Lab answer key: Implementing Hyper-V Replica and Windows Server Backup
 
+This exercise should take approximately **45** minutes to complete. <!-- update with estimated duration -->
+
 ## Exercise1: Implementing Hyper-V Replica
 
 #### Task 1: Install and configure Hyper-V Replica
