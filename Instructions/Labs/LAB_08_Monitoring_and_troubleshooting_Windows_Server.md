@@ -6,6 +6,8 @@ lab:
 
 # Lab: Monitoring and troubleshooting Windows Server
 
+This exercise should take approximately **40** minutes to complete. <!-- update with estimated duration -->
+
 ## Scenario
 
 Contoso, Ltd. is a global engineering and manufacturing company with its head office in Seattle, Washington, in the United States. An IT office and datacenter are in Seattle to support the Seattle location and other locations. Contoso recently deployed a Windows Server server and client infrastructure.
